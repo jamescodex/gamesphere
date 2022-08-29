@@ -1,6 +1,7 @@
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
+// test the GamesphereNFT contract
 describe("GamesphereNFT", function () {
   this.timeout(50000);
 
